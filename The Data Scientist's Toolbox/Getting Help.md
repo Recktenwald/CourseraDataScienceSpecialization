@@ -1,0 +1,1 @@
+This one seems pretty important. But luckily everything they said I have already internalized from learning other programming languages and during my Ph.D. so I will skip the notetaking here.

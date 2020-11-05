@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "1857ea00e253f0f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3889e4a8ed857ca7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90878f9daac8e73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f8616d535fbf3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922d028b75a48104",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84a0e056f6cc40af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "953787f1eeb155fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0535840afd31565a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b396272f6474a24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
+    "The Data Scientist's Toolbox/Getting Help.md",
+    "The Data Scientist's Toolbox/Three Vs.md",
+    "The Data Scientist's Toolbox/Three V's.md",
+    "The Data Scientist's Toolbox/What is Data.md",
+    "The Data Scientist's Toolbox/What is Data Science.md",
+    "What is Data Science.md",
+    "Untitled.md",
+    "Readme.md"
+  ]
+}
