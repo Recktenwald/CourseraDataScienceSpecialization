@@ -6,11 +6,22 @@
       {
         "id": "3889e4a8ed857ca7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3628f612139fa471",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Data Scientist's Toolbox/Three Vs.md",
             "mode": "source"
           }
         }
@@ -65,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md"
+                "file": "The Data Scientist's Toolbox/Three Vs.md"
               }
             }
           }
@@ -77,14 +88,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
-    "The Data Scientist's Toolbox/Getting Help.md",
     "The Data Scientist's Toolbox/Three Vs.md",
+    "The Data Scientist's Toolbox/Big Data.md",
+    "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
+    "The Data Scientist's Toolbox/Experimental Design.md",
+    "The Data Scientist's Toolbox/Types of Data Science Questions.md",
+    "The Data Scientist's Toolbox/Bonferroni Correction.md",
+    "The Data Scientist's Toolbox/kaggle.com.md",
+    "The Data Scientist's Toolbox/Getting Help.md",
     "The Data Scientist's Toolbox/Three V's.md",
-    "The Data Scientist's Toolbox/What is Data.md",
-    "The Data Scientist's Toolbox/What is Data Science.md",
-    "What is Data Science.md",
-    "Untitled.md",
-    "Readme.md"
+    "The Data Scientist's Toolbox/What is Data.md"
   ]
 }
