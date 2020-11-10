@@ -6,22 +6,11 @@
       {
         "id": "3889e4a8ed857ca7",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "3628f612139fa471",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Data Scientist's Toolbox/Three Vs.md",
+            "file": "The Data Scientist's Toolbox/0The Data Scientis's Toolbox.md",
             "mode": "source"
           }
         }
@@ -59,8 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "953787f1eeb155fe",
@@ -76,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Data Scientist's Toolbox/Three Vs.md"
+                "file": "The Data Scientist's Toolbox/0The Data Scientis's Toolbox.md"
               }
             }
           }
@@ -88,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
+    "The Data Scientist's Toolbox/Untitled.md",
     "The Data Scientist's Toolbox/Three Vs.md",
     "The Data Scientist's Toolbox/Big Data.md",
-    "The Data Scientist's Toolbox/The Data Scientis's Toolbox.md",
     "The Data Scientist's Toolbox/Experimental Design.md",
     "The Data Scientist's Toolbox/Types of Data Science Questions.md",
     "The Data Scientist's Toolbox/Bonferroni Correction.md",
     "The Data Scientist's Toolbox/kaggle.com.md",
     "The Data Scientist's Toolbox/Getting Help.md",
-    "The Data Scientist's Toolbox/Three V's.md",
-    "The Data Scientist's Toolbox/What is Data.md"
+    "The Data Scientist's Toolbox/Three V's.md"
   ]
 }
